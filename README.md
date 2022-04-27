@@ -38,7 +38,7 @@ TBA
 # Syllabus
 There are 8 modules planned in this ML Study Jam. Each module cosnsists of several lessons, exercises and homeworks.
 
-**This is a draft and will change.**
+**_This is a draft and will change._**
 
 ## [Module 0: Python](https://www.kaggle.com/learn/python)
 - Review of python programmming
