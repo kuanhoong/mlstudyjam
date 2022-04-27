@@ -138,3 +138,5 @@ https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page - predict the ride
 - Hafiz Faizal
 - Muhammad Afiq Che Man  
 
+# Speakers
+- TBA
