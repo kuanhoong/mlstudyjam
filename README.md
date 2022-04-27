@@ -28,7 +28,7 @@ There are six modules planned in this ML Study Jam. Each module cosnsists of sev
 
 **This is a draft and will change.**
 
-## [Module 0: Introduction](https://www.kaggle.com/learn/python)
+## [Module 0: Python](https://www.kaggle.com/learn/python)
 - Review of python programmming
 - Numpy
 - Matplotlib
