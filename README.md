@@ -28,12 +28,12 @@ There are six modules planned in this ML Study Jam. Each module cosnsists of sev
 
 **This is a draft and will change.**
 
-## Module 0: Introduction
+## [Module 0: Introduction](https://www.kaggle.com/learn/python)
 - Review of python programmming
 - Numpy
 - Matplotlib
 
-## Module 1: Introduction to Machine Learning
+## [Module 1: Introduction to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 - How Models Work
 - Basic Data Exploration
 - Your First Machine Learning Model
@@ -42,7 +42,7 @@ There are six modules planned in this ML Study Jam. Each module cosnsists of sev
 - Random Forests
 - Machine Learning Competitions
 
-## Module 2: Pandas
+## [Module 2: Pandas](https://www.kaggle.com/learn/pandas)
 - Creating, Reading and Writing
 - Indexing, Selecting & Assigning
 - Summary Functions and Maps
@@ -52,7 +52,7 @@ There are six modules planned in this ML Study Jam. Each module cosnsists of sev
 
 Homework/Assignment:
 
-## Module 3: Intermediate Machine Learning
+## [Module 3: Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 - Introduction to Intermediate Machine Learning
 - Missing Values
 - Categorical Variables
@@ -61,7 +61,7 @@ Homework/Assignment:
 - XGBoost
 - Data Leakage
 
-## Module 4: Feature Engineering
+## [Module 4: Feature Engineering](https://www.kaggle.com/learn/feature-engineering)
 - What Is Feature Engineering
 - Mutual Information
 - Creating Features
@@ -71,7 +71,7 @@ Homework/Assignment:
 
 Homework/Assignment:
 
-## Module 5: Introduction to Deep Learning
+## [Module 5: Introduction to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
 - A Single Neuron
 - Deep Neural Networks
 - Stochastic Gradient Descent
@@ -79,7 +79,7 @@ Homework/Assignment:
 - Dropout and Batch Normalization
 - Binary Classification
 
-## Module 6: Computer Vision
+## [Module 6: Computer Vision](https://www.kaggle.com/learn/computer-vision)
 - The Convolutional Classifier
 - Convolution and ReLU
 - Maximum Pooling
@@ -89,7 +89,7 @@ Homework/Assignment:
 
 Homework/Assignment:
 
-## Module 7: Time Series
+## [Module 7: Time Series](https://www.kaggle.com/learn/time-series)
 - Linear Regression With Time Series
 - Trend
 - Seasonality
@@ -97,7 +97,7 @@ Homework/Assignment:
 - Hybrid Models
 - Forecasting With Machine Learning
 
-## Module 8: Introduction to AI Ethics
+## [Module 8: Introduction to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics)
 - Introduction to AI Ethics
 - Human-Centered Design for AI
 - Identifying Bias in AI
