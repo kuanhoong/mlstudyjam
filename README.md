@@ -69,7 +69,7 @@ Homework/Assignment:
 
 Homework/Assignment:
 
-Module 5: Introduction to Deep Learning
+## Module 5: Introduction to Deep Learning
 - A Single Neuron
 - Deep Neural Networks
 - Stochastic Gradient Descent
@@ -77,7 +77,7 @@ Module 5: Introduction to Deep Learning
 - Dropout and Batch Normalization
 - Binary Classification
 
-Module 6: Computer Vision
+## Module 6: Computer Vision
 - The Convolutional Classifier
 - Convolution and ReLU
 - Maximum Pooling
@@ -87,7 +87,7 @@ Module 6: Computer Vision
 
 Homework/Assignment:
 
-Module 7: Time Series
+## Module 7: Time Series
 - Linear Regression With Time Series
 - Trend
 - Seasonality
@@ -95,7 +95,7 @@ Module 7: Time Series
 - Hybrid Models
 - Forecasting With Machine Learning
 
-Module 8: Introduction to AI Ethics
+## Module 8: Introduction to AI Ethics
 - Introduction to AI Ethics
 - Human-Centered Design for AI
 - Identifying Bias in AI
