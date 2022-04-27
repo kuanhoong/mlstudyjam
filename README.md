@@ -20,7 +20,7 @@ This is a study program going through Kaggle courses sequentially. The goal of t
 There will be short lectures/talks (virtual & physical) event planned at the end of the week.  
 
 ## Digital Certificate & Badge
-![kaggle cert](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn1xoxEJK34ZYFyl-QUkhhbQFFCZFO57z5g2aR25F2ypCdNtb9qTNB83rZeE-kbgtUxDALqiC076d6zVG2nvqv5QI_WDcOaSL3uxA_WOG0Aeule_6d9_hBxggO4FzwPmsCsq4OT0DFuagW3PZv4ZOxRkV8Bo5zF5g1NFPwm7XSS-JIppwqI2ewJI2r/s320/kaggle-cert.png)
+![kaggle cert](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsklOmqjt71R9vdAQz2fD5NXkttcs1jLNh-bkrE-52IBeBu-JvhF3weh9yTsEwTjb9DuSeMnChgRlSFDl7H9FBY4Y_40ojWrAGClNpTLsyJTCBMeqBSNbsKbIjGNocOozkZK282Vs-jCLi5eOtQJ_IkTz2ICr85RLYAxK0-5Cqbm5X6LJuJR0TG7By/s600/kaggle-cert.png)
 - Everyone who finishes a Kaggle course will receive a completion certificate.
 - You can find your certificates by navigating to the Courses page: https://www.kaggle.com/learn-course-certificates 
 
