@@ -7,7 +7,7 @@
 - Registration Page (TBA)
 
 # Overview
-![Ml Study Jam](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOtU66EqoqjuYMtyyHaHbwhTNDyTSuHlQm8BRrxkQnBOcLV8eiUldjfdUHxiJ47bNNORchjw7-V9QqFTxP-xEy425hV5VhzdyxWv3G6YwfqLiplorjqEE5jGTE2n36MoNzvPaWzhzT468mUrZqPeFzSjrgX-4J3vkdFHvDXegUhNNVQBHeWMzD4P4G/s320/ml-studyjam.png)
+![Ml Study Jam](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUiPehGz45Z0G6iYribDAp8iSDzg8BPhLNoJa4tcUvlp5aVKmlKaZn0jOR6ynAOh9D5_VsI8Qn83jVexzsK4AqLAZwGrjYvRsO9WN9FKIVchz1f3DOTMkC25YZKr6qsQMclO49_X2IfLzUlyimhnok4Q6wytFzgjx0y6IyrYuD5uegnWQMLJm82r5q/s600/ml-studyjam.png)
 
 ## Objective
 ML Study Jam is a learning opportunity orgainzed by [Malaysia TensorFlow & Deep Learning User Group](https://www.facebook.com/groups/TensorFlowMY), which takes 4 weeks of time leveraging on [Kaggle Courses](https://www.kaggle.com/learn). It includes hands-on assignments, tutoring, tech talks and group discussions. This is a great opportunity to bring members of your community together to learn something online.  
