@@ -7,6 +7,8 @@
 - Registration Page (TBA)
 
 # Overview
+![Ml Study Jam](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOtU66EqoqjuYMtyyHaHbwhTNDyTSuHlQm8BRrxkQnBOcLV8eiUldjfdUHxiJ47bNNORchjw7-V9QqFTxP-xEy425hV5VhzdyxWv3G6YwfqLiplorjqEE5jGTE2n36MoNzvPaWzhzT468mUrZqPeFzSjrgX-4J3vkdFHvDXegUhNNVQBHeWMzD4P4G/s320/ml-studyjam.png)
+
 ## Objective
 ML Study Jam is a learning opportunity orgainzed by [Malaysia TensorFlow & Deep Learning User Group](https://www.facebook.com/groups/TensorFlowMY), which takes 4 weeks of time leveraging on [Kaggle Courses](https://www.kaggle.com/learn). It includes hands-on assignments, tutoring, tech talks and group discussions. This is a great opportunity to bring members of your community together to learn something online.  
 
@@ -16,6 +18,11 @@ ML Study Jam is a learning opportunity orgainzed by [Malaysia TensorFlow & Deep 
 This is a study program going through Kaggle courses sequentially. The goal of these assignments is to rapidly cover the most essential skills. Such as how to use TensorFlow or Pandas and how to build your first machine learning model. This online-oriented program suggests that the participants study by themselves. Studying with others is a more effective way to master courses sometimes, therefore, we’re suggested to study together online. 
 
 There will be short lectures/talks (virtual & physical) event planned at the end of the week. 
+
+## Digital Certificate & Badge
+![kaggle cert](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn1xoxEJK34ZYFyl-QUkhhbQFFCZFO57z5g2aR25F2ypCdNtb9qTNB83rZeE-kbgtUxDALqiC076d6zVG2nvqv5QI_WDcOaSL3uxA_WOG0Aeule_6d9_hBxggO4FzwPmsCsq4OT0DFuagW3PZv4ZOxRkV8Bo5zF5g1NFPwm7XSS-JIppwqI2ewJI2r/s320/kaggle-cert.png)
+- Everyone who finishes a Kaggle course will receive a completion certificate.
+- You can find your certificates by navigating to the Courses page: https://www.kaggle.com/learn-course-certificates 
 
 ## Target audience
 Aspired Data scientists/Data Analysts. Also software engineers and data engineers interested in learning Python programming, Machine Learning and Deep Learning.
