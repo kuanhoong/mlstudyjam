@@ -15,9 +15,9 @@ ML Study Jam is a learning opportunity orgainzed by [Malaysia TensorFlow & Deep 
 [Kaggle](www.kaggle.com) is the world’s largest data science and machine learning community. It offers a no-setup, customizable, Jupyter Notebooks environment, access to free GPUs and a huge repository of community published data & code.  
 
 ## ML Study Jam Mode
-This is a study program going through Kaggle courses sequentially. The goal of these assignments is to rapidly cover the most essential skills. Such as how to use TensorFlow or Pandas and how to build your first machine learning model. This online-oriented program suggests that the participants study by themselves. Studying with others is a more effective way to master courses sometimes, therefore, we’re suggested to study together online. 
+This is a study program going through Kaggle courses sequentially. The goal of these assignments is to rapidly cover the most essential skills. Such as how to use TensorFlow or Pandas and how to build your first machine learning model. This online-oriented program suggests that the participants study by themselves. Studying with others is a more effective way to master courses sometimes, therefore, we’re suggested to study together online.  
 
-There will be short lectures/talks (virtual & physical) event planned at the end of the week. 
+There will be short lectures/talks (virtual & physical) event planned at the end of the week.  
 
 ## Digital Certificate & Badge
 ![kaggle cert](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn1xoxEJK34ZYFyl-QUkhhbQFFCZFO57z5g2aR25F2ypCdNtb9qTNB83rZeE-kbgtUxDALqiC076d6zVG2nvqv5QI_WDcOaSL3uxA_WOG0Aeule_6d9_hBxggO4FzwPmsCsq4OT0DFuagW3PZv4ZOxRkV8Bo5zF5g1NFPwm7XSS-JIppwqI2ewJI2r/s320/kaggle-cert.png)
