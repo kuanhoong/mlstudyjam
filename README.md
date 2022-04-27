@@ -7,7 +7,7 @@
 
 # Overview
 ## Objective
-ML Study Jam is a learning opportunity which takes 4 weeks of time leveraging on [Kaggle Courses](https://www.kaggle.com/learn). It includes hands-on assignments, tutoring, tech talks and group discussions. This is a great opportunity to bring members of your community together to learn something online.  
+ML Study Jam is a learning opportunity orgainzed by [Malaysia TensorFlow & Deep Learning User Group](https://www.facebook.com/groups/TensorFlowMY), which takes 4 weeks of time leveraging on [Kaggle Courses](https://www.kaggle.com/learn). It includes hands-on assignments, tutoring, tech talks and group discussions. This is a great opportunity to bring members of your community together to learn something online.  
 
 [Kaggle](www.kaggle.com) is the world’s largest data science and machine learning community. It offers a no-setup, customizable, Jupyter Notebooks environment, access to free GPUs and a huge repository of community published data & code.  
 
