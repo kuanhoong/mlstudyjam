@@ -36,7 +36,7 @@ Aspired Data scientists/Data Analysts. Also software engineers and data engineer
 TBA
 
 # Syllabus
-There are six modules planned in this ML Study Jam. Each module cosnsists of several lessons and exercises.
+There are 8 modules planned in this ML Study Jam. Each module cosnsists of several lessons, exercises and homeworks.
 
 **This is a draft and will change.**
 
