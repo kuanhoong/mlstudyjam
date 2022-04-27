@@ -3,6 +3,7 @@
 - Subscribe to updates here: https://www.facebook.com/groups/TensorFlowMY    
 - Join the [discourse](https://discord.gg/zuxDUVfgXB) channel  
 - [Tweet about the course!](https://ctt.ac/ranbc)  
+- ML StudyJam Info Booklet (TBA)
 - Registration Page (TBA)
 
 # Overview
