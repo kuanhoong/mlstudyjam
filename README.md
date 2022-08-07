@@ -100,8 +100,6 @@ Homework/Assignment:
 - Custom Convnets
 - Data Augmentation
 
-Homework/Assignment:
-
 ## [Module 7: Time Series](https://www.kaggle.com/learn/time-series)
 - Linear Regression With Time Series
 - Trend
@@ -119,10 +117,14 @@ Homework/Assignment:
 
 # Instructors/Speakers
 - [Poo Kuan Hoong, Ph.D](www.linkedin.com/in/kuanhoong)
-- [Yu Yong Poh, Ph.D](www.linkedin.com/in/yong-poh-yu/)
-- [Lau Sian Lun, Ph.D](www.linkedin.com/in/sianlun/)
+- Erhan Azrai (https://www.linkedin.com/in/erhanazrai/)
+- Dr Tan Yan Bin (https://www.linkedin.com/in/yyanbin-tan/) 
+- Leong Lai Fong (https://www.linkedin.com/in/leong-lai-fong/)
+- Prof Dr Raveendran Paramesran (https://www.linkedin.com/in/raveendran-paramesran-5a0a4222a/)
+- Dr Sean Tan Chi Wee (https://www.linkedin.com/in/chi-wee-tan-b973aa41/)
 
 # Facilitators/Tutors
-- Benjamin Chang
-- Hafiz Faizal
-- Muhammad Afiq Che Man  
+- Benjamin Chang (https://www.linkedin.com/in/benjamin-chang/)
+- Hafiz Faizal (https://www.linkedin.com/in/hafizfaizal/)
+- Muhammad Afiq Che Man (https://www.linkedin.com/in/mcheman/)
+-   
