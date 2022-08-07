@@ -34,12 +34,10 @@ Aspired Data scientists/Data Analysts. Also software engineers and data engineer
 - Being comfortable with command line
 
 ## Timeline
-TBA
+13th August 2022 - 3rd September 2022
 
 # Syllabus
 There are 8 modules planned in this ML Study Jam. Each module cosnsists of several lessons, exercises and homeworks.
-
-**_This is a draft and will change._**
 
 ## [Module 0: Python](https://www.kaggle.com/learn/python)
 - Review of python programmming
@@ -127,4 +125,4 @@ Homework/Assignment:
 - Benjamin Chang (https://www.linkedin.com/in/benjamin-chang/)
 - Hafiz Faizal (https://www.linkedin.com/in/hafizfaizal/)
 - Muhammad Afiq Che Man (https://www.linkedin.com/in/mcheman/)
--   
+
