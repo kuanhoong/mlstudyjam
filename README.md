@@ -115,14 +115,14 @@ Homework/Assignment:
 
 # Instructors/Speakers
 - [Poo Kuan Hoong, Ph.D](www.linkedin.com/in/kuanhoong)
-- [Erhan Azrai] (https://www.linkedin.com/in/erhanazrai/)
-- [Dr Tan Yan Bin] (https://www.linkedin.com/in/yyanbin-tan/) 
-- [Leong Lai Fong] (https://www.linkedin.com/in/leong-lai-fong/)
-- [Prof Dr Raveendran Paramesran] (https://www.linkedin.com/in/raveendran-paramesran-5a0a4222a/)
-- [Dr Sean Tan Chi Wee] (https://www.linkedin.com/in/chi-wee-tan-b973aa41/)
+- [Erhan Azrai](www.linkedin.com/in/erhanazrai/)
+- [Dr Tan Yan Bin](www.linkedin.com/in/yyanbin-tan/) 
+- [Leong Lai Fong](https://www.linkedin.com/in/leong-lai-fong/)
+- [Prof Dr Raveendran Paramesran](https://www.linkedin.com/in/raveendran-paramesran-5a0a4222a/)
+- [Dr Sean Tan Chi Wee](https://www.linkedin.com/in/chi-wee-tan-b973aa41/)
 
 # Facilitators/Tutors
-- [Benjamin Chang] (https://www.linkedin.com/in/benjamin-chang/)
-- [Hafiz Faizal] (https://www.linkedin.com/in/hafizfaizal/)
-- [Muhammad Afiq Che Man] (https://www.linkedin.com/in/mcheman/)
+- [Benjamin Chang](https://www.linkedin.com/in/benjamin-chang/)
+- [Hafiz Faizal](https://www.linkedin.com/in/hafizfaizal/)
+- [Muhammad Afiq Che Man](https://www.linkedin.com/in/mcheman/)
 
