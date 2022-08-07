@@ -1,5 +1,6 @@
 # Machine Learning Study Jam 2022
 
+- Website: http://www.malaysiamlstudyjam.com
 - Subscribe to updates here: https://www.facebook.com/groups/TensorFlowMY    
 - Join the [discourse](https://discord.gg/zuxDUVfgXB) channel  
 - [Tweet about the course!](https://ctt.ac/ranbc)  
@@ -128,15 +129,12 @@ Homework/Assignment:
 
 https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page - predict the ride duration or if the driver is going to be tipped or not
 
-# Instructors
+# Instructors/Speakers
 - [Poo Kuan Hoong, Ph.D](www.linkedin.com/in/kuanhoong)
 - [Yu Yong Poh, Ph.D](www.linkedin.com/in/yong-poh-yu/)
 - [Lau Sian Lun, Ph.D](www.linkedin.com/in/sianlun/)
 
-# Facilitators
+# Facilitators/Tutors
 - Benjamin Chang
 - Hafiz Faizal
 - Muhammad Afiq Che Man  
-
-# Speakers
-- TBA
