@@ -117,18 +117,6 @@ Homework/Assignment:
 - AI Fairness
 - Model Cards
 
-Homework/Assignment:
-
-# Project
-- End-to-end project with all the things above
-
-## Running example
-- To make it easier to connect different modules together, we’d like to use the same running example throughout the course.
-
-## Possible candidates:
-
-https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page - predict the ride duration or if the driver is going to be tipped or not
-
 # Instructors/Speakers
 - [Poo Kuan Hoong, Ph.D](www.linkedin.com/in/kuanhoong)
 - [Yu Yong Poh, Ph.D](www.linkedin.com/in/yong-poh-yu/)
