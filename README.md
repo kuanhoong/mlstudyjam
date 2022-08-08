@@ -11,7 +11,7 @@
 ![Ml Study Jam](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUiPehGz45Z0G6iYribDAp8iSDzg8BPhLNoJa4tcUvlp5aVKmlKaZn0jOR6ynAOh9D5_VsI8Qn83jVexzsK4AqLAZwGrjYvRsO9WN9FKIVchz1f3DOTMkC25YZKr6qsQMclO49_X2IfLzUlyimhnok4Q6wytFzgjx0y6IyrYuD5uegnWQMLJm82r5q/s600/ml-studyjam.png)
 
 ## Objective
-ML Study Jam is a learning opportunity orgainzed by [Malaysia TensorFlow & Deep Learning User Group](https://www.facebook.com/groups/TensorFlowMY), which takes 4 weeks of time leveraging on [Kaggle Courses](https://www.kaggle.com/learn). It includes hands-on assignments, tutoring, tech talks and group discussions. This is a great opportunity to bring members of your community together to learn something online.  
+ML Study Jam is a learning opportunity orgainzed by [Malaysia TensorFlow & Deep Learning User Group](https://www.facebook.com/groups/TensorFlowMY) together with Sunway University Tech Club & Sunway DataXSight Research Cluster, which takes 4 weeks of time leveraging on [Kaggle Courses](https://www.kaggle.com/learn). It includes hands-on assignments, tutoring, tech talks and group discussions. This is a great opportunity to bring members of your community together to learn something online.  
 
 [Kaggle](www.kaggle.com) is the world’s largest data science and machine learning community. It offers a no-setup, customizable, Jupyter Notebooks environment, access to free GPUs and a huge repository of community published data & code.  
 
