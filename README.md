@@ -5,7 +5,7 @@
 - Join the [discourse](https://discord.gg/zuxDUVfgXB) channel  
 - [Tweet about this StudyJam!](https://ctt.ac/ranbc)  
 - [ML Study Jam Info Booklet](https://bit.ly/ML-Participant-Guide)
-- Registration Page (TBA)
+- [Registration Page](https://bit.ly/Week-1-Registration)
 
 # Overview
 ![Ml Study Jam](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUiPehGz45Z0G6iYribDAp8iSDzg8BPhLNoJa4tcUvlp5aVKmlKaZn0jOR6ynAOh9D5_VsI8Qn83jVexzsK4AqLAZwGrjYvRsO9WN9FKIVchz1f3DOTMkC25YZKr6qsQMclO49_X2IfLzUlyimhnok4Q6wytFzgjx0y6IyrYuD5uegnWQMLJm82r5q/s600/ml-studyjam.png)
