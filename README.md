@@ -61,8 +61,6 @@ There are 8 modules planned in this ML Study Jam. Each module cosnsists of sever
 - Data Types and Missing Values
 - Renaming and Combining
 
-Homework/Assignment:
-
 ## [Module 3: Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 - Introduction to Intermediate Machine Learning
 - Missing Values
@@ -79,8 +77,6 @@ Homework/Assignment:
 - Clustering With K-Means
 - Principal Component Analysis
 - Target Encoding
-
-Homework/Assignment:
 
 ## [Module 5: Introduction to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
 - A Single Neuron
