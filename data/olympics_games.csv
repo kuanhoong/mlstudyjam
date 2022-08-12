@@ -1,0 +1,52 @@
+ID,Year,Season,City
+0,1896,Summer,Athina
+1,1900,Summer,Paris
+2,1904,Summer,St. Louis
+3,1906,Summer,Athina
+4,1908,Summer,London
+5,1912,Summer,Stockholm
+6,1920,Summer,Antwerpen
+7,1924,Summer,Paris
+8,1924,Winter,Chamonix
+9,1928,Summer,Amsterdam
+10,1928,Winter,Sankt Moritz
+11,1932,Summer,Los Angeles
+12,1932,Winter,Lake Placid
+13,1936,Summer,Berlin
+14,1936,Winter,Garmisch-Partenkirchen
+15,1948,Summer,London
+16,1948,Winter,Sankt Moritz
+17,1952,Summer,Helsinki
+18,1952,Winter,Oslo
+19,1956,Summer,Melbourne
+20,1956,Winter,Cortina d'Ampezzo
+21,1960,Summer,Roma
+22,1960,Winter,Squaw Valley
+23,1964,Summer,Tokyo
+24,1964,Winter,Innsbruck
+25,1968,Summer,Mexico City
+26,1968,Winter,Grenoble
+27,1972,Summer,Munich
+28,1972,Winter,Sapporo
+29,1976,Summer,Montreal
+30,1976,Winter,Innsbruck
+31,1980,Summer,Moskva
+32,1980,Winter,Lake Placid
+33,1984,Summer,Los Angeles
+34,1984,Winter,Sarajevo
+35,1988,Summer,Seoul
+36,1988,Winter,Calgary
+37,1992,Summer,Barcelona
+38,1992,Winter,Albertville
+39,1994,Winter,Lillehammer
+40,1996,Summer,Atlanta
+41,1998,Winter,Nagano
+42,2000,Summer,Sydney
+43,2002,Winter,Salt Lake City
+44,2004,Summer,Athina
+45,2006,Winter,Torino
+46,2008,Summer,Beijing
+47,2010,Winter,Vancouver
+48,2012,Summer,London
+49,2014,Winter,Sochi
+50,2016,Summer,Rio de Janeiro
