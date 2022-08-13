@@ -2,7 +2,7 @@
 
 - Website: http://www.malaysiamlstudyjam.com
 - Subscribe to updates here: https://www.facebook.com/groups/TensorFlowMY    
-- Join the [discourse](https://discord.gg/zuxDUVfgXB) channel  
+- Join the [discord](https://discord.gg/zuxDUVfgXB) channel  
 - [Tweet about this StudyJam!](https://ctt.ac/ranbc)  
 - [ML Study Jam Info Booklet](https://bit.ly/ML-Participant-Guide)
 - [Registration Page](https://bit.ly/Week-1-Registration)
